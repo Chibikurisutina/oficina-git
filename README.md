@@ -1,4 +1,3 @@
-# oficina-git
 <h1>Projeto Final Git - Ciclo 9 - Pretalab</h1>
 
 1. Crie um repositório pelo github
